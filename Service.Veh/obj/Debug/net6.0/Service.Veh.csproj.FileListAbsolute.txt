@@ -1,0 +1,15 @@
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\bin\Debug\net6.0\Service.Veh.deps.json
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\bin\Debug\net6.0\Service.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\bin\Debug\net6.0\Service.Veh.pdb
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\bin\Debug\net6.0\DAL.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\bin\Debug\net6.0\DAL.Veh.pdb
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.csproj.AssemblyReference.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.AssemblyInfoInputs.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.AssemblyInfo.cs
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.csproj.CoreCompileInputs.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.csproj.CopyComplete
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\refint\Service.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\Service.Veh.pdb
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\Service.Veh\obj\Debug\net6.0\ref\Service.Veh.dll

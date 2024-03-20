@@ -1,0 +1,14 @@
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\bin\Debug\net6.0\DAL.Veh.deps.json
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\bin\Debug\net6.0\DAL.Veh.runtimeconfig.json
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\bin\Debug\net6.0\DAL.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\bin\Debug\net6.0\DAL.Veh.pdb
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.csproj.AssemblyReference.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.AssemblyInfoInputs.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.AssemblyInfo.cs
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.csproj.CoreCompileInputs.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\refint\DAL.Veh.dll
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.pdb
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\DAL.Veh.genruntimeconfig.cache
+C:\Users\Omprakash.Choudhary\source\repos\DAL.Veh\DAL.Veh\obj\Debug\net6.0\ref\DAL.Veh.dll
